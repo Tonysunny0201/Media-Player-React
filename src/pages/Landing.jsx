@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import landingImg from '../assets/music.png'
 import { Card } from 'react-bootstrap'
 import feature1 from '../assets/fea1.jpg'
-import feature2 from '../assets/fea2.jpeg'
+import feature2 from '../assets/fea2.jpg'
 import feature3 from '../assets/fea3.jpg'
 
 
